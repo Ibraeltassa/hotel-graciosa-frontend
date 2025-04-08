@@ -30,4 +30,4 @@ Versão inicial da interface criada e pronta para receber os primeiros component
 
 ##  Como executar
 
-> ⚠️ Em breve será adicionado aqui o passo a passo para executar o projeto localmente.
+> ⚠️ Em breve
