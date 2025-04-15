@@ -4,6 +4,7 @@ import Dashboard  from "./pages/Dashboard";
 import CadastroQuartos from "./pages/CadastroQuartos";
 import CadastroProdutos from "./pages/CadastroProdutos";
 import Checkout from "./pages/Checkout";
+import RegistrarConsumo from "./pages/RegistrarConsumo";
 
 function AppRoutes() {
     return (
@@ -14,6 +15,7 @@ function AppRoutes() {
                 <Route path="/cadastro-quartos" element={<CadastroQuartos />} />
                 <Route path="/cadastro-produtos" element={<CadastroProdutos />} />
                 <Route path="/realizar-checkout" element={<Checkout />} />
+                <Route path="/registrar-consumo" element={<RegistrarConsumo />} />
             </Routes>
         </BrowserRouter>
     )
